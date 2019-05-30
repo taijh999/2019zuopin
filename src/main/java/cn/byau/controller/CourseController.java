@@ -27,6 +27,7 @@ import cn.byau.util.Result;
 
 /**
  * Created by tjh on 2017/5/13.
+ * 5月30日提交到github
  */
 @Controller
 @RequestMapping("/course")
@@ -126,7 +127,7 @@ public class CourseController {
 
 
 	/**
-	 * 跳转到更新页面
+	 * 跳转到更新页面,
 	 * 
 	 * @param request
 	 * @return
